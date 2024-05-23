@@ -1,0 +1,14 @@
+//Include these XML files in the res/values/ directory to define strings, styles, and colors.
+<resources>
+    <string name="app_name">SocialMediaApp</string>
+    <string name="profile_button_text">Profile</string>
+    <string name="messaging_button_text">Messages</string>
+    <string name="settings_button_text">Settings</string>
+    <string name="notifications_switch_text">Notifications</string>
+    <string name="light_theme_text">Light Theme</string>
+    <string name="dark_theme_text">Dark Theme</string>
+    <string name="enter_name_hint">Name</string>
+    <string name="enter_bio_hint">Biography</string>
+    <string name="save_button_text">Save</string>
+    <string name="send_button_text">Send</string>
+</resources>
